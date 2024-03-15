@@ -182,6 +182,21 @@ for row in manufacture_results:
                                     download_file(file_url,local_directory_compilance)
                                 except Exception:
                                     print("uncaught exception")
+                            if(attachment_row[attachments_type]=="blanket"):
+                                try:
+                                    file_url_blanket=attachment_row[column_index]
+                                    directory_name_blanket = 'blanket' 
+                                    local_directory_blanket = os.path.join(local_directory_compilance, directory_name_blanket)
+                                    if os.path.exists(local_directory_blanket):
+                                        os.chdir(local_directory_blanket)
+                                        print("this directory ale=ready present")
+                                    else:
+                                        os.makedirs(local_directory_blanket)
+                                        print("created blanket directory")
+                                    download_file(file_url_blanket,local_directory_blanket)
+                                    
+                                except Exception:
+                                    print("not downloadedd blanket")
                             file_url = attachment_row[column_index]
                                 #print(file_url)
                             if file_url.startswith("https://") or file_url.startswith("http://"):
