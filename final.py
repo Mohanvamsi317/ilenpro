@@ -244,9 +244,9 @@ def duplicate_byparts():
         # Create DataFrame from attachment dictionary
         df_attachment_dict = pd.DataFrame(attachment_dict.items(), columns=['Attachment', 'Component IDs'])
         df_duplicate_bypart = pd.DataFrame([['duplicate by parts', count_of_duplicatebyparts]], columns=['Attachment', 'Count'])
-        df_total_links=pd.DataFrame([['unique links',count_of_total_links]])
+        df_total_links=pd.DataFrame([['total links',count_of_total_links]],columns=['Attachment', 'Count'])
         count_of_uniquelinks=len(set(link))
-        df_uniquelinks=pd.DataFrame([['unique links',count_of_uniquelinks]])
+        df_uniquelinks=pd.DataFrame([['unique links',count_of_uniquelinks]],columns=['Attachment', 'Count'])
         
         # Save DataFrame to Excel file 'duplicate_byparts.xlsx'
         with pd.ExcelWriter('duplicate_byparts.xlsx') as writer:
@@ -264,11 +264,15 @@ def duplicate_byparts():
             
         else:
             with pd.ExcelWriter('total.xlsx') as writer:
-                df_total_links.to_excel(writer,index=False)
-                df_uniquelinks.to_excel(writer,index=False)
-                df_duplicate_bypart.to_excel(writer,index=False)
+                df_total_links.to_excel(writer, index=False)
+            wb = openpyxl.load_workbook('total.xlsx')
+            ws = wb.active
+            ws.append(['count of unique links ',count_of_uniquelinks])
+            ws.append(['count of duplicate by parts',count_of_duplicatebyparts])
+            wb.save('total.xlsx')
+               
 
-#function for the sime link has more than than one approvla types an bypart and the part series
+#function for the same link has more than than one approval types as bypart and the part series
 def bypartandblanket():
     count_of_blanketandbypart=0
     print("bypart and blanket")
@@ -305,6 +309,8 @@ def bypartandblanket():
             print("Component IDs:")
             for component_id in set(component_ids):
                 print(component_id)
+        for attachment,component_ids in attachment_dict_filtered.items():
+            attachment_dict_filtered[attachment]=set(component_ids)
                 
         count_of_blanketandbypart=len(attachment_dict_filtered)
         df_attachment_dict = pd.DataFrame(attachment_dict_filtered.items(), columns=['Attachment', 'Compnoent IDs'])
