@@ -172,6 +172,7 @@ for row in manufacture_results:
                         query3 = "SELECT * FROM attachments WHERE manufacturer_id = %s AND component_id = %s"
                         cursor.execute(query3, (manufacturer_id, component_id))
                         attachment_results = cursor.fetchall()
+                        print(f"for the manufacturer id {manufacturer_id} and the component id {component_id} there are{count(attachment_results)} records")
 
                         for attachment_row in attachment_results:
                             if(attachment_row[attachments_type]=="partseries"):
@@ -182,13 +183,31 @@ for row in manufacture_results:
                                     download_file(file_url,local_directory_compilance)
                                 except Exception:
                                     print("uncaught exception")
-                            file_url = attachment_row[column_index]
-                                #print(file_url)
-                            if file_url.startswith("https://") or file_url.startswith("http://"):
-                                
-                                download_file(file_url, local_directory2)
+                            elif(attachment_row[attachments_type]=="blanket"):
+                                try:
+                                    directory_name_blanket = "blanket"
+                                    local_directory_blanket = os.path.join(local_directory_compilance, directory_name_blanket)
+                                    print("ita a blanket file")
+                                    
+                                    if(os.path.exists(local_directory_blanket)):
+                                        os.chdir(local_directory_blanket)
+                                        print("this directory is a existing blanket directory")
+                                    else:
+                                        print("else")
+                                        os.makedirs(local_directory_blanket)
+                                        print("dir creates")
+                                        file_url_blanket=attachment_row[column_index]
+                                        download_file(file_url_blanket,local_directory_blanket)
+                                except Exception:
+                                    print("uncaught")
                             else:
-                                print(f"Invalid URL: {file_url}")
+                                file_url = attachment_row[column_index]
+                                #print(file_url)
+                                if file_url.startswith("https://") or file_url.startswith("http://"):
+                                
+                                    download_file(file_url, local_directory2)
+                                else:
+                                    print(f"Invalid URL: {file_url}")
 
                     except FileExistsError:
                         print(f"Subdirectory already exists: {local_directory2}")
