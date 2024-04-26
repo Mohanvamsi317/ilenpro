@@ -1,0 +1,105 @@
+2024-04-26 15:04:18,966 - INFO - Coonection established successfully
+2024-04-26 15:04:32,253 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:32,253 - INFO - file is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,284 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,289 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,305 - INFO - File has been overridden
+2024-04-26 15:04:32,306 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:32,306 - INFO - file is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,316 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,320 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,328 - INFO - File has been overridden
+2024-04-26 15:04:32,329 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:32,330 - INFO - file is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,339 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,340 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:32,347 - INFO - File has been overridden
+2024-04-26 15:04:32,349 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:32,349 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-04-26 15:04:33,264 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-04-26 15:04:33,265 - INFO - File has been overridden
+2024-04-26 15:04:33,272 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:33,272 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-04-26 15:04:34,116 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-04-26 15:04:34,120 - INFO - File has been overridden
+2024-04-26 15:04:34,124 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:34,125 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,145 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,148 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,157 - INFO - File has been overridden
+2024-04-26 15:04:34,158 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:34,159 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,168 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,172 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,180 - INFO - File has been overridden
+2024-04-26 15:04:34,180 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:34,180 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,190 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,192 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-04-26 15:04:34,192 - INFO - File has been overridden
+2024-04-26 15:04:34,195 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:34,196 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-04-26 15:04:35,064 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:35,067 - INFO - File has been overridden
+2024-04-26 15:04:35,071 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:35,071 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-04-26 15:04:35,921 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:35,921 - INFO - File has been overridden
+2024-04-26 15:04:35,927 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:35,927 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-04-26 15:04:36,649 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:36,652 - INFO - File has been overridden
+2024-04-26 15:04:36,655 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:36,656 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-04-26 15:04:37,340 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:37,340 - INFO - File has been overridden
+2024-04-26 15:04:37,346 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:37,346 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-04-26 15:04:38,172 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:38,174 - INFO - File has been overridden
+2024-04-26 15:04:38,176 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:38,176 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:38,186 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:38,186 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:38,196 - INFO - File has been overridden
+2024-04-26 15:04:38,196 - INFO - its a By part file but this was mapped to the multiple manufacturers
+2024-04-26 15:04:38,197 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:38,203 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:38,203 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:38,211 - INFO - File has been overridden
+2024-04-26 15:04:38,248 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:38,249 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:38,262 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\lopez_llcj\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:38,262 - INFO - File path updated in the database: atom_mfr_docs\lopez_llcj\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:38,277 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\miller_plct\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:38,278 - INFO - File path updated in the database: atom_mfr_docs\miller_plct\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
+2024-04-26 15:04:39,122 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-04-26 15:04:39,850 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-04-26 15:04:39,874 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-04-26 15:04:39,876 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-04-26 15:04:39,897 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-04-26 15:04:39,898 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-04-26 15:04:39,909 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Feuerherdt_REACH.pdf
+2024-04-26 15:04:39,911 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Feuerherdt_REACH.pdf
+2024-04-26 15:04:39,926 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
+2024-04-26 15:04:39,927 - INFO - File path updated in the database: atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
+2024-04-26 15:04:39,936 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
+2024-04-26 15:04:39,937 - INFO - File path updated in the database: atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
+2024-04-26 15:04:40,683 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:41,462 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:42,219 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:43,096 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:43,912 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-04-26 15:04:43,941 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\jordan_willisv\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:43,941 - INFO - File path updated in the database: atom_mfr_docs\jordan_willisv\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:43,963 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\cobb_elliottr\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:43,964 - INFO - File path updated in the database: atom_mfr_docs\cobb_elliottr\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
+2024-04-26 15:04:43,975 - INFO - blanket
+2024-04-26 15:04:43,976 - INFO - file mapped to both bypart and blanket
+2024-04-26 15:04:43,982 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\blanket\Feuerherdt_REACH.pdf
+2024-04-26 15:04:43,982 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\blanket\Feuerherdt_REACH.pdf
+2024-04-26 15:04:43,987 - INFO - blanket
+2024-04-26 15:04:43,987 - INFO - file mapped to both bypart and blanket
+2024-04-26 15:04:43,994 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\hoffman_friedman_and_cowany\compilance\blanket\Feuerherdt_REACH.pdf
+2024-04-26 15:04:43,995 - INFO - File path updated in the database: atom_mfr_docs\hoffman_friedman_and_cowany\compilance\blanket\Feuerherdt_REACH.pdf
+2024-04-26 15:04:43,998 - INFO - connection closed
