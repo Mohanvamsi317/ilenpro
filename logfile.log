@@ -1,105 +1,216 @@
-2024-04-26 15:04:18,966 - INFO - Coonection established successfully
-2024-04-26 15:04:32,253 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:32,253 - INFO - file is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,284 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,289 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,305 - INFO - File has been overridden
-2024-04-26 15:04:32,306 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:32,306 - INFO - file is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,316 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,320 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,328 - INFO - File has been overridden
-2024-04-26 15:04:32,329 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:32,330 - INFO - file is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,339 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,340 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:32,347 - INFO - File has been overridden
-2024-04-26 15:04:32,349 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:32,349 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
-2024-04-26 15:04:33,264 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
-2024-04-26 15:04:33,265 - INFO - File has been overridden
-2024-04-26 15:04:33,272 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:33,272 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
-2024-04-26 15:04:34,116 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
-2024-04-26 15:04:34,120 - INFO - File has been overridden
-2024-04-26 15:04:34,124 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:34,125 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,145 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,148 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,157 - INFO - File has been overridden
-2024-04-26 15:04:34,158 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:34,159 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,168 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,172 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,180 - INFO - File has been overridden
-2024-04-26 15:04:34,180 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:34,180 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,190 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,192 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
-2024-04-26 15:04:34,192 - INFO - File has been overridden
-2024-04-26 15:04:34,195 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:34,196 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
-2024-04-26 15:04:35,064 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:35,067 - INFO - File has been overridden
-2024-04-26 15:04:35,071 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:35,071 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
-2024-04-26 15:04:35,921 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:35,921 - INFO - File has been overridden
-2024-04-26 15:04:35,927 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:35,927 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
-2024-04-26 15:04:36,649 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:36,652 - INFO - File has been overridden
-2024-04-26 15:04:36,655 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:36,656 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
-2024-04-26 15:04:37,340 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:37,340 - INFO - File has been overridden
-2024-04-26 15:04:37,346 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:37,346 - INFO - file is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
-2024-04-26 15:04:38,172 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:38,174 - INFO - File has been overridden
-2024-04-26 15:04:38,176 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:38,176 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:38,186 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:38,186 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:38,196 - INFO - File has been overridden
-2024-04-26 15:04:38,196 - INFO - its a By part file but this was mapped to the multiple manufacturers
-2024-04-26 15:04:38,197 - INFO - file is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:38,203 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:38,203 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:38,211 - INFO - File has been overridden
-2024-04-26 15:04:38,248 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:38,249 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:38,262 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\lopez_llcj\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:38,262 - INFO - File path updated in the database: atom_mfr_docs\lopez_llcj\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:38,277 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\miller_plct\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:38,278 - INFO - File path updated in the database: atom_mfr_docs\miller_plct\compilance\multiplebyparts\Bourns_SF-Series_ROHS.pdf
-2024-04-26 15:04:39,122 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
-2024-04-26 15:04:39,850 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
-2024-04-26 15:04:39,874 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
-2024-04-26 15:04:39,876 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
-2024-04-26 15:04:39,897 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
-2024-04-26 15:04:39,898 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
-2024-04-26 15:04:39,909 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Feuerherdt_REACH.pdf
-2024-04-26 15:04:39,911 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\Feuerherdt_REACH.pdf
-2024-04-26 15:04:39,926 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
-2024-04-26 15:04:39,927 - INFO - File path updated in the database: atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
-2024-04-26 15:04:39,936 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
-2024-04-26 15:04:39,937 - INFO - File path updated in the database: atom_mfr_docs\chapman_poolen\compilance\multiplebyparts\Feuerherdt_REACH.pdf
-2024-04-26 15:04:40,683 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:41,462 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:42,219 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:43,096 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:43,912 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
-2024-04-26 15:04:43,941 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\jordan_willisv\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:43,941 - INFO - File path updated in the database: atom_mfr_docs\jordan_willisv\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:43,963 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\cobb_elliottr\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:43,964 - INFO - File path updated in the database: atom_mfr_docs\cobb_elliottr\compilance\multiplebyparts\03.20.059_ROHS,REACH.pdf
-2024-04-26 15:04:43,975 - INFO - blanket
-2024-04-26 15:04:43,976 - INFO - file mapped to both bypart and blanket
-2024-04-26 15:04:43,982 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\blanket\Feuerherdt_REACH.pdf
-2024-04-26 15:04:43,982 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\blanket\Feuerherdt_REACH.pdf
-2024-04-26 15:04:43,987 - INFO - blanket
-2024-04-26 15:04:43,987 - INFO - file mapped to both bypart and blanket
-2024-04-26 15:04:43,994 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\hoffman_friedman_and_cowany\compilance\blanket\Feuerherdt_REACH.pdf
-2024-04-26 15:04:43,995 - INFO - File path updated in the database: atom_mfr_docs\hoffman_friedman_and_cowany\compilance\blanket\Feuerherdt_REACH.pdf
-2024-04-26 15:04:43,998 - INFO - connection closed
+2024-05-07 10:48:21,190 - INFO - Coonection established successfully
+2024-05-07 10:48:31,918 - INFO - Part series
+2024-05-07 10:48:31,918 - INFO - Attachments with Component IDs:
+2024-05-07 10:48:31,919 - INFO - Attachment: http://192.168.20.216/sample-docs/03-11-2024/Bourns/3386_250-50k_mds.pdf
+2024-05-07 10:48:31,919 - INFO - Component IDs:
+2024-05-07 10:48:31,919 - INFO - 6
+2024-05-07 10:48:31,919 - INFO - 7
+2024-05-07 10:48:31,949 - INFO - bypart and blanket
+2024-05-07 10:48:31,950 - INFO - {'http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf': [1, 10, 8, 10], 'http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf': [1, 4]}
+2024-05-07 10:48:31,950 - INFO - Attachments with Component IDs:
+2024-05-07 10:48:31,950 - INFO - Attachment: http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-07 10:48:31,950 - INFO - component IDs:
+2024-05-07 10:48:31,950 - INFO - 8
+2024-05-07 10:48:31,950 - INFO - 1
+2024-05-07 10:48:31,950 - INFO - 10
+2024-05-07 10:48:31,951 - INFO - Attachment: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf
+2024-05-07 10:48:31,951 - INFO - component IDs:
+2024-05-07 10:48:31,951 - INFO - 1
+2024-05-07 10:48:31,951 - INFO - 4
+2024-05-07 10:48:31,982 - INFO - done with bypart blanket
+2024-05-07 10:49:11,956 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:11,956 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-07 10:49:11,957 - INFO - C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-07 10:49:12,017 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-07 10:49:12,026 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:12,027 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:12,028 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-07 10:49:12,034 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-07 10:49:12,035 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:12,035 - INFO - File has been overridden
+2024-05-07 10:49:12,036 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:12,036 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-07 10:49:12,044 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-07 10:49:12,044 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:12,045 - INFO - File has been overridden
+2024-05-07 10:49:12,046 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:12,047 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-07 10:49:13,177 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-07 10:49:13,177 - INFO - File has been overridden
+2024-05-07 10:49:13,188 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:13,188 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-07 10:49:13,890 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-07 10:49:13,892 - INFO - File has been overridden
+2024-05-07 10:49:13,897 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:13,897 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-07 10:49:13,919 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\Feuerherdt_REACH.pdf
+2024-05-07 10:49:13,919 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:13,920 - INFO - File has been overridden
+2024-05-07 10:49:13,921 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:13,921 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-07 10:49:13,929 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\Feuerherdt_REACH.pdf
+2024-05-07 10:49:13,929 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:13,930 - INFO - File has been overridden
+2024-05-07 10:49:13,930 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:13,930 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-07 10:49:13,934 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\Feuerherdt_REACH.pdf
+2024-05-07 10:49:13,935 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:13,935 - INFO - File has been overridden
+2024-05-07 10:49:13,937 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:13,937 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-07 10:49:14,976 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-07 10:49:14,978 - INFO - File has been overridden
+2024-05-07 10:49:14,980 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:14,980 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-07 10:49:15,869 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-07 10:49:15,872 - INFO - File has been overridden
+2024-05-07 10:49:15,875 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:15,875 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-07 10:49:16,791 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-07 10:49:16,793 - INFO - File has been overridden
+2024-05-07 10:49:16,794 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:16,794 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-07 10:49:17,634 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-07 10:49:17,636 - INFO - File has been overridden
+2024-05-07 10:49:17,637 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:17,637 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-07 10:49:18,518 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-07 10:49:18,520 - INFO - File has been overridden
+2024-05-07 10:49:18,523 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:18,524 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-05-07 10:49:18,556 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-07 10:49:18,557 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:18,557 - INFO - File has been overridden
+2024-05-07 10:49:18,558 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-07 10:49:18,558 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-05-07 10:49:18,566 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-07 10:49:18,567 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:18,568 - INFO - File has been overridden
+2024-05-07 10:49:18,584 - INFO - Its a Blanket file
+2024-05-07 10:49:18,584 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf
+2024-05-07 10:49:18,614 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\leach_kramert\compilance\blanket\03.03.045_ROHS,REACH.pdf
+2024-05-07 10:49:18,615 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:18,616 - INFO - Blanket file is downloaded and saved
+2024-05-07 10:49:18,620 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:18,620 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/02.17.149_ROHS,REACH.pdf
+2024-05-07 10:49:18,672 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\lopez_llcj\compilance\EX1-2U1S\02.17.149_ROHS,REACH.pdf
+2024-05-07 10:49:18,673 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:18,673 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:18,675 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:18,676 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/013.14.235_ROHS,REACH.pdf
+2024-05-07 10:49:18,709 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\lopez_llcj\compilance\EX1-2U1S\013.14.235_ROHS,REACH.pdf
+2024-05-07 10:49:18,710 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:18,710 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:18,723 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:18,723 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/013.13.825_ROHS,REACH.pdf
+2024-05-07 10:49:18,750 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\jordan_willisv\compilance\EX2-2U1S\013.13.825_ROHS,REACH.pdf
+2024-05-07 10:49:18,751 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:18,751 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:18,752 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:18,753 - INFO - File is: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2F76347%2D301LF%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-07 10:49:19,628 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2F76347-301LF.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-07 10:49:19,630 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:19,637 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:19,637 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf
+2024-05-07 10:49:19,644 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\choi_terryg\compilance\1-1393277-4\03.03.045_ROHS,REACH.pdf
+2024-05-07 10:49:19,644 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:19,645 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:19,645 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:19,645 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Amphenol/76347-301LF.pdf
+2024-05-07 10:49:19,673 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\choi_terryg\compilance\1-1393277-4\76347-301LF.pdf
+2024-05-07 10:49:19,674 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:19,674 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:19,674 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:19,675 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Amphenol/76347-301LF.pdf
+2024-05-07 10:49:19,682 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\choi_terryg\compilance\1-1393277-4\76347-301LF.pdf
+2024-05-07 10:49:19,683 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:19,684 - INFO - File has been overridden
+2024-05-07 10:49:19,688 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:19,688 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/05.07.053_ROHS,REACH.pdf
+2024-05-07 10:49:19,718 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\miller_plct\compilance\1393280-5\05.07.053_ROHS,REACH.pdf
+2024-05-07 10:49:19,718 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:19,719 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:19,725 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:19,726 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/01.63.232_ROHS,REACH.pdf
+2024-05-07 10:49:19,761 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\cobb_elliottr\compilance\6-1393302-3\01.63.232_ROHS,REACH.pdf
+2024-05-07 10:49:19,762 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:19,762 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:19,763 - INFO - Its a Partseries file
+2024-05-07 10:49:19,763 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/3386_250-50k_mds.pdf
+2024-05-07 10:49:19,789 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\cobb_elliottr\compilance\partseries\3386_250-50k_mds.pdf
+2024-05-07 10:49:19,789 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:19,790 - INFO - File has been downloaded and saved
+2024-05-07 10:49:19,790 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:19,791 - INFO - File is: https://ilensysin-my.sharepoint.com/:b:/g/personal/mohanvamsi_sadhu_ilensys_in/EY_ASdWhPQlJmqcXtF-zGwcB-4EtN8xPDiK1yYmpJ8BxEw?e=9HHjDX
+2024-05-07 10:49:20,988 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\cobb_elliottr\compilance\6-1393302-3\EY_ASdWhPQlJmqcXtF-zGwcB-4EtN8xPDiK1yYmpJ8BxEw
+2024-05-07 10:49:20,989 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:20,994 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:20,998 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:20,998 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/05.03.251_ROHS,REACH.pdf
+2024-05-07 10:49:21,027 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\05.03.251_ROHS,REACH.pdf
+2024-05-07 10:49:21,027 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,028 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,028 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,028 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/3386_250-50k_mds.pdf
+2024-05-07 10:49:21,034 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\3386_250-50k_mds.pdf
+2024-05-07 10:49:21,035 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,035 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,035 - INFO - Its a Partseries file
+2024-05-07 10:49:21,035 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/E-Tec/EU_REACH-219-item-2021-07-08.pdf
+2024-05-07 10:49:21,072 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\watson_moore_and_manningf\compilance\partseries\EU_REACH-219-item-2021-07-08.pdf
+2024-05-07 10:49:21,072 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,073 - INFO - File has been downloaded and saved
+2024-05-07 10:49:21,073 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,073 - INFO - File is: watson_moore_and_manningf/compliance/g9ej_1_e_uvddc12/g9ej_1_e_uvddc12_CoC_Component_Manual_COC_Details_1710234214898.xlsx
+2024-05-07 10:49:21,075 - ERROR - An exception occurred while downloading the file: Invalid URL 'watson_moore_and_manningf/compliance/g9ej_1_e_uvddc12/g9ej_1_e_uvddc12_CoC_Component_Manual_COC_Details_1710234214898.xlsx': No scheme supplied. Perhaps you meant https://watson_moore_and_manningf/compliance/g9ej_1_e_uvddc12/g9ej_1_e_uvddc12_CoC_Component_Manual_COC_Details_1710234214898.xlsx?
+2024-05-07 10:49:21,075 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,075 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,075 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.73.151_ROHS,REACH.pdf
+2024-05-07 10:49:21,103 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\03.73.151_ROHS,REACH.pdf
+2024-05-07 10:49:21,104 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,104 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,105 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,105 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Amp/34148-0_ROHS,REACH.pdf
+2024-05-07 10:49:21,127 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\34148-0_ROHS,REACH.pdf
+2024-05-07 10:49:21,128 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,128 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,133 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,133 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/01.26.142_ROHS,REACH.pdf
+2024-05-07 10:49:21,161 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\hoffman_friedman_and_cowany\compilance\2-1904058-5\01.26.142_ROHS,REACH.pdf
+2024-05-07 10:49:21,162 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,162 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,162 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,162 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/4607x_mds.pdf
+2024-05-07 10:49:21,185 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\hoffman_friedman_and_cowany\compilance\2-1904058-5\4607x_mds.pdf
+2024-05-07 10:49:21,185 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,186 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,190 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,190 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/034.18.024_ROHS,REACH.pdf
+2024-05-07 10:49:21,222 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\cortez_ltdd\compilance\1393315-2\034.18.024_ROHS,REACH.pdf
+2024-05-07 10:49:21,223 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,224 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,225 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,225 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Epcos/B82111E%20SERIES.pdf
+2024-05-07 10:49:21,250 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\cortez_ltdd\compilance\1393315-2\B82111E%20SERIES.pdf
+2024-05-07 10:49:21,251 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,252 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,263 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-07 10:49:21,263 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/SMCJ1_MDS.pdf
+2024-05-07 10:49:21,298 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\chapman_poolen\compilance\1393315-9\SMCJ1_MDS.pdf
+2024-05-07 10:49:21,299 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,300 - INFO - Bypart file is downloaded and saved
+2024-05-07 10:49:21,306 - INFO - blanket
+2024-05-07 10:49:21,306 - INFO - This File is mapped to both bypart and blanket
+2024-05-07 10:49:21,311 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\leach_kramert\compilance\blanket\Feuerherdt_REACH.pdf
+2024-05-07 10:49:21,312 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,313 - INFO - blanket
+2024-05-07 10:49:21,313 - INFO - This File is mapped to both bypart and blanket
+2024-05-07 10:49:21,323 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\hoffman_friedman_and_cowany\compilance\blanket\Feuerherdt_REACH.pdf
+2024-05-07 10:49:21,324 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,325 - INFO - blanket and bypartfile
+2024-05-07 10:49:21,369 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-05-07 10:49:21,370 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,370 - INFO - file for multiple byparts has been downloaded and saved in thehttp://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-05-07 10:49:21,378 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\OneDrive - iLenSys Technologies Private Limited\Desktop\project\outputfiles\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-05-07 10:49:21,378 - ERROR - An exception occurred while downloading the file: tuple.index(x): x not in tuple
+2024-05-07 10:49:21,380 - INFO - connection closed
