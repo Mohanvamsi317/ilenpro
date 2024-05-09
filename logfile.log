@@ -1,0 +1,401 @@
+2024-05-09 17:06:23,108 - INFO - Coonection established successfully
+2024-05-09 17:06:25,638 - INFO - Part series
+2024-05-09 17:06:25,639 - INFO - Attachments with Component IDs:
+2024-05-09 17:06:25,639 - INFO - Attachment: http://192.168.20.216/sample-docs/03-11-2024/Bourns/3386_250-50k_mds.pdf
+2024-05-09 17:06:25,639 - INFO - Component IDs:
+2024-05-09 17:06:25,639 - INFO - 6
+2024-05-09 17:06:25,639 - INFO - 7
+2024-05-09 17:06:25,658 - INFO - bypart and blanket
+2024-05-09 17:06:25,658 - INFO - {'http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf': [1, 10, 8, 10], 'http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf': [1, 4]}
+2024-05-09 17:06:25,658 - INFO - Attachments with Component IDs:
+2024-05-09 17:06:25,658 - INFO - Attachment: http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-09 17:06:25,658 - INFO - component IDs:
+2024-05-09 17:06:25,658 - INFO - 8
+2024-05-09 17:06:25,658 - INFO - 1
+2024-05-09 17:06:25,658 - INFO - 10
+2024-05-09 17:06:25,658 - INFO - Attachment: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf
+2024-05-09 17:06:25,658 - INFO - component IDs:
+2024-05-09 17:06:25,658 - INFO - 1
+2024-05-09 17:06:25,658 - INFO - 4
+2024-05-09 17:06:25,674 - INFO - done with bypart blanket
+2024-05-09 17:06:28,738 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:28,738 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,738 - INFO - 1
+2024-05-09 17:06:28,738 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,738 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,738 - INFO - File has been overridden
+2024-05-09 17:06:28,738 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:28,738 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,756 - INFO - 1
+2024-05-09 17:06:28,757 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,757 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,759 - INFO - File has been overridden
+2024-05-09 17:06:28,759 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:28,759 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,763 - INFO - 1
+2024-05-09 17:06:28,763 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,763 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,763 - INFO - File has been overridden
+2024-05-09 17:06:28,763 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:28,763 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,776 - INFO - 6
+2024-05-09 17:06:28,795 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,802 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,814 - INFO - File has been overridden
+2024-05-09 17:06:28,814 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:28,814 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,821 - INFO - 6
+2024-05-09 17:06:28,822 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,824 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,825 - INFO - File has been overridden
+2024-05-09 17:06:28,825 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:28,825 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:28,857 - INFO - 6
+2024-05-09 17:06:29,255 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,255 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,255 - INFO - File has been overridden
+2024-05-09 17:06:29,271 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:29,271 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,539 - INFO - 18
+2024-05-09 17:06:29,555 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,555 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,555 - INFO - File has been overridden
+2024-05-09 17:06:29,555 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:29,555 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,571 - INFO - 18
+2024-05-09 17:06:29,571 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,571 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,571 - INFO - File has been overridden
+2024-05-09 17:06:29,571 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:29,571 - INFO - The File is:http://192.168.20.216/sample-docs/03-11-2024/Bourns/Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,586 - INFO - 18
+2024-05-09 17:06:29,586 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,586 - INFO - File path updated in the database: atom_mfr_docs\compilance\Bourns_SF-Series_ROHS.pdf
+2024-05-09 17:06:29,586 - INFO - File has been overridden
+2024-05-09 17:06:29,586 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:29,586 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-09 17:06:30,712 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-09 17:06:30,712 - INFO - File has been overridden
+2024-05-09 17:06:30,712 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:30,712 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-09 17:06:31,358 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-09 17:06:31,358 - INFO - File has been overridden
+2024-05-09 17:06:31,358 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:31,358 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-09 17:06:32,161 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-09 17:06:32,176 - INFO - File has been overridden
+2024-05-09 17:06:32,176 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,176 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FFeuerherdt%5FREACH%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-09 17:06:32,823 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FFeuerherdt_REACH.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-09 17:06:32,823 - INFO - File has been overridden
+2024-05-09 17:06:32,823 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,823 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,823 - INFO - 5
+2024-05-09 17:06:32,823 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,823 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,823 - INFO - File has been overridden
+2024-05-09 17:06:32,823 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,823 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,839 - INFO - 5
+2024-05-09 17:06:32,840 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,840 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,842 - INFO - File has been overridden
+2024-05-09 17:06:32,842 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,842 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,844 - INFO - 5
+2024-05-09 17:06:32,844 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,844 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,844 - INFO - File has been overridden
+2024-05-09 17:06:32,844 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,844 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,844 - INFO - 35
+2024-05-09 17:06:32,844 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,844 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,865 - INFO - File has been overridden
+2024-05-09 17:06:32,865 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,865 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,868 - INFO - 35
+2024-05-09 17:06:32,869 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,869 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,870 - INFO - File has been overridden
+2024-05-09 17:06:32,870 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,870 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Feuerherdt/Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,873 - INFO - 35
+2024-05-09 17:06:32,873 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,874 - INFO - File path updated in the database: atom_mfr_docs\compilance\Feuerherdt_REACH.pdf
+2024-05-09 17:06:32,875 - INFO - File has been overridden
+2024-05-09 17:06:32,876 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:32,876 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:33,594 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:33,594 - INFO - File has been overridden
+2024-05-09 17:06:33,594 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:33,594 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:34,276 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:34,276 - INFO - File has been overridden
+2024-05-09 17:06:34,276 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:34,276 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:34,953 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:34,953 - INFO - File has been overridden
+2024-05-09 17:06:34,953 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:34,953 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:35,639 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:35,639 - INFO - File has been overridden
+2024-05-09 17:06:35,639 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:35,639 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:36,288 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:36,294 - INFO - File has been overridden
+2024-05-09 17:06:36,294 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:36,294 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:36,973 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:36,973 - INFO - File has been overridden
+2024-05-09 17:06:36,973 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:36,973 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:37,637 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:37,637 - INFO - File has been overridden
+2024-05-09 17:06:37,637 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:37,637 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:38,272 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:38,288 - INFO - File has been overridden
+2024-05-09 17:06:38,288 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:38,288 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:38,960 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:38,975 - INFO - File has been overridden
+2024-05-09 17:06:38,975 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:38,975 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:39,590 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:39,605 - INFO - File has been overridden
+2024-05-09 17:06:39,605 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:39,605 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:40,270 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:40,270 - INFO - File has been overridden
+2024-05-09 17:06:40,270 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:40,270 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:40,925 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:40,941 - INFO - File has been overridden
+2024-05-09 17:06:40,941 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:40,941 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:41,650 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:41,650 - INFO - File has been overridden
+2024-05-09 17:06:41,650 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:41,650 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:42,299 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:42,314 - INFO - File has been overridden
+2024-05-09 17:06:42,314 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:42,314 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:43,000 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:43,000 - INFO - File has been overridden
+2024-05-09 17:06:43,000 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:43,000 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:43,705 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:43,705 - INFO - File has been overridden
+2024-05-09 17:06:43,705 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:43,705 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:44,369 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:44,369 - INFO - File has been overridden
+2024-05-09 17:06:44,369 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:44,369 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:45,028 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:45,043 - INFO - File has been overridden
+2024-05-09 17:06:45,043 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:45,043 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:45,924 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:45,924 - INFO - File has been overridden
+2024-05-09 17:06:45,924 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:45,924 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:46,579 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:46,594 - INFO - File has been overridden
+2024-05-09 17:06:46,594 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:46,594 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:47,308 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:47,308 - INFO - File has been overridden
+2024-05-09 17:06:47,308 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:47,308 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:48,028 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:48,044 - INFO - File has been overridden
+2024-05-09 17:06:48,044 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:48,044 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:48,735 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:48,735 - INFO - File has been overridden
+2024-05-09 17:06:48,735 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:48,735 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:49,403 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:49,403 - INFO - File has been overridden
+2024-05-09 17:06:49,403 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:49,403 - INFO - The File is:https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2FEU%5FREACH%2D219%2Ditem%2D2021%2D07%2D08%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Fil
+2024-05-09 17:06:50,033 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2FEU_REACH-219-item-2021-07-08.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_il
+2024-05-09 17:06:50,048 - INFO - File has been overridden
+2024-05-09 17:06:50,048 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:50,048 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,048 - INFO - 11
+2024-05-09 17:06:50,048 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,048 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,048 - INFO - File has been overridden
+2024-05-09 17:06:50,048 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:50,048 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,066 - INFO - 11
+2024-05-09 17:06:50,066 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,070 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,070 - INFO - File has been overridden
+2024-05-09 17:06:50,072 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:50,072 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,075 - INFO - 23
+2024-05-09 17:06:50,075 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,075 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,075 - INFO - File has been overridden
+2024-05-09 17:06:50,075 - INFO - The file is organized as bypart, but it was mapped to multiple manufacturers.
+2024-05-09 17:06:50,075 - INFO - The File is:http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,075 - INFO - 23
+2024-05-09 17:06:50,075 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,075 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.20.059_ROHS,REACH.pdf
+2024-05-09 17:06:50,075 - INFO - File has been overridden
+2024-05-09 17:06:50,090 - INFO - Its a Blanket file
+2024-05-09 17:06:50,090 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf
+2024-05-09 17:06:50,095 - INFO - 40
+2024-05-09 17:06:50,095 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\compilance\03.03.045_ROHS,REACH.pdf
+2024-05-09 17:06:50,096 - INFO - File path updated in the database: atom_mfr_docs\compilance\03.03.045_ROHS,REACH.pdf
+2024-05-09 17:06:50,096 - INFO - File has been overridden
+2024-05-09 17:06:50,097 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,097 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/02.17.149_ROHS,REACH.pdf
+2024-05-09 17:06:50,101 - INFO - 8
+2024-05-09 17:06:50,101 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\lopez_llcj\compilance\EX1-2U1S\02.17.149_ROHS,REACH.pdf
+2024-05-09 17:06:50,102 - INFO - File path updated in the database: atom_mfr_docs\lopez_llcj\compilance\EX1-2U1S\02.17.149_ROHS,REACH.pdf
+2024-05-09 17:06:50,103 - INFO - File has been overridden
+2024-05-09 17:06:50,103 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,103 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/013.14.235_ROHS,REACH.pdf
+2024-05-09 17:06:50,107 - INFO - 7
+2024-05-09 17:06:50,108 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\lopez_llcj\compilance\EX1-2U1S\013.14.235_ROHS,REACH.pdf
+2024-05-09 17:06:50,108 - INFO - File path updated in the database: atom_mfr_docs\lopez_llcj\compilance\EX1-2U1S\013.14.235_ROHS,REACH.pdf
+2024-05-09 17:06:50,109 - INFO - File has been overridden
+2024-05-09 17:06:50,111 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,111 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/013.13.825_ROHS,REACH.pdf
+2024-05-09 17:06:50,114 - INFO - 12
+2024-05-09 17:06:50,115 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\jordan_willisv\compilance\EX2-2U1S\013.13.825_ROHS,REACH.pdf
+2024-05-09 17:06:50,116 - INFO - File path updated in the database: atom_mfr_docs\jordan_willisv\compilance\EX2-2U1S\013.13.825_ROHS,REACH.pdf
+2024-05-09 17:06:50,116 - INFO - File has been overridden
+2024-05-09 17:06:50,116 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,117 - INFO - File is: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments%2F76347%2D301LF%2Epdf&parent=%2Fpersonal%2Fmohanvamsi%5Fsadhu%5Filensys%5Fin%2FDocuments
+2024-05-09 17:06:50,781 - ERROR - An exception occurred while downloading the file: 403 Client Error: Forbidden for url: https://ilensysin-my.sharepoint.com/personal/mohanvamsi_sadhu_ilensys_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments%2F76347-301LF.pdf&parent=%2Fpersonal%2Fmohanvamsi_sadhu_ilensys_in%2FDocuments
+2024-05-09 17:06:50,781 - INFO - Bypart file is downloaded and saved
+2024-05-09 17:06:50,781 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,781 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.03.045_ROHS,REACH.pdf
+2024-05-09 17:06:50,806 - INFO - 17
+2024-05-09 17:06:50,807 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\choi_terryg\compilance\1-1393277-4\03.03.045_ROHS,REACH.pdf
+2024-05-09 17:06:50,807 - INFO - File path updated in the database: atom_mfr_docs\choi_terryg\compilance\1-1393277-4\03.03.045_ROHS,REACH.pdf
+2024-05-09 17:06:50,807 - INFO - File has been overridden
+2024-05-09 17:06:50,807 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,807 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Amphenol/76347-301LF.pdf
+2024-05-09 17:06:50,807 - INFO - 15
+2024-05-09 17:06:50,807 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\choi_terryg\compilance\1-1393277-4\76347-301LF.pdf
+2024-05-09 17:06:50,807 - INFO - File path updated in the database: atom_mfr_docs\choi_terryg\compilance\1-1393277-4\76347-301LF.pdf
+2024-05-09 17:06:50,807 - INFO - File has been overridden
+2024-05-09 17:06:50,807 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,807 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Amphenol/76347-301LF.pdf
+2024-05-09 17:06:50,807 - INFO - 16
+2024-05-09 17:06:50,807 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\choi_terryg\compilance\1-1393277-4\76347-301LF.pdf
+2024-05-09 17:06:50,807 - INFO - File path updated in the database: atom_mfr_docs\choi_terryg\compilance\1-1393277-4\76347-301LF.pdf
+2024-05-09 17:06:50,807 - INFO - File has been overridden
+2024-05-09 17:06:50,807 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,807 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/05.07.053_ROHS,REACH.pdf
+2024-05-09 17:06:50,824 - INFO - 20
+2024-05-09 17:06:50,825 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\miller_plct\compilance\1393280-5\05.07.053_ROHS,REACH.pdf
+2024-05-09 17:06:50,826 - INFO - File path updated in the database: atom_mfr_docs\miller_plct\compilance\1393280-5\05.07.053_ROHS,REACH.pdf
+2024-05-09 17:06:50,826 - INFO - File has been overridden
+2024-05-09 17:06:50,828 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,828 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/01.63.232_ROHS,REACH.pdf
+2024-05-09 17:06:50,834 - INFO - 22
+2024-05-09 17:06:50,834 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\cobb_elliottr\compilance\6-1393302-3\01.63.232_ROHS,REACH.pdf
+2024-05-09 17:06:50,835 - INFO - File path updated in the database: atom_mfr_docs\cobb_elliottr\compilance\6-1393302-3\01.63.232_ROHS,REACH.pdf
+2024-05-09 17:06:50,836 - INFO - File has been overridden
+2024-05-09 17:06:50,836 - INFO - Its a Partseries file
+2024-05-09 17:06:50,836 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/3386_250-50k_mds.pdf
+2024-05-09 17:06:50,839 - INFO - 24
+2024-05-09 17:06:50,840 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\cobb_elliottr\compilance\partseries\3386_250-50k_mds.pdf
+2024-05-09 17:06:50,840 - INFO - File path updated in the database: atom_mfr_docs\cobb_elliottr\compilance\partseries\3386_250-50k_mds.pdf
+2024-05-09 17:06:50,841 - INFO - File has been overridden
+2024-05-09 17:06:50,841 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:50,841 - INFO - File is: https://ilensysin-my.sharepoint.com/:b:/g/personal/mohanvamsi_sadhu_ilensys_in/EY_ASdWhPQlJmqcXtF-zGwcB-4EtN8xPDiK1yYmpJ8BxEw?e=9HHjDX
+2024-05-09 17:06:52,469 - INFO - 21
+2024-05-09 17:06:52,469 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\cobb_elliottr\compilance\6-1393302-3\EY_ASdWhPQlJmqcXtF-zGwcB-4EtN8xPDiK1yYmpJ8BxEw
+2024-05-09 17:06:52,484 - INFO - File path updated in the database: atom_mfr_docs\cobb_elliottr\compilance\6-1393302-3\EY_ASdWhPQlJmqcXtF-zGwcB-4EtN8xPDiK1yYmpJ8BxEw
+2024-05-09 17:06:52,484 - INFO - Bypart file is downloaded and saved
+2024-05-09 17:06:52,484 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,484 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/05.03.251_ROHS,REACH.pdf
+2024-05-09 17:06:52,505 - INFO - 28
+2024-05-09 17:06:52,507 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\05.03.251_ROHS,REACH.pdf
+2024-05-09 17:06:52,508 - INFO - File path updated in the database: atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\05.03.251_ROHS,REACH.pdf
+2024-05-09 17:06:52,508 - INFO - File has been overridden
+2024-05-09 17:06:52,508 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,508 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/3386_250-50k_mds.pdf
+2024-05-09 17:06:52,508 - INFO - 26
+2024-05-09 17:06:52,508 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\3386_250-50k_mds.pdf
+2024-05-09 17:06:52,508 - INFO - File path updated in the database: atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\3386_250-50k_mds.pdf
+2024-05-09 17:06:52,508 - INFO - File has been overridden
+2024-05-09 17:06:52,508 - INFO - Its a Partseries file
+2024-05-09 17:06:52,508 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/E-Tec/EU_REACH-219-item-2021-07-08.pdf
+2024-05-09 17:06:52,508 - INFO - 39
+2024-05-09 17:06:52,508 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\watson_moore_and_manningf\compilance\partseries\EU_REACH-219-item-2021-07-08.pdf
+2024-05-09 17:06:52,508 - INFO - File path updated in the database: atom_mfr_docs\watson_moore_and_manningf\compilance\partseries\EU_REACH-219-item-2021-07-08.pdf
+2024-05-09 17:06:52,508 - INFO - File has been overridden
+2024-05-09 17:06:52,508 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,508 - INFO - File is: watson_moore_and_manningf/compliance/g9ej_1_e_uvddc12/g9ej_1_e_uvddc12_CoC_Component_Manual_COC_Details_1710234214898.xlsx
+2024-05-09 17:06:52,508 - ERROR - An exception occurred while downloading the file: Invalid URL 'watson_moore_and_manningf/compliance/g9ej_1_e_uvddc12/g9ej_1_e_uvddc12_CoC_Component_Manual_COC_Details_1710234214898.xlsx': No scheme supplied. Perhaps you meant https://watson_moore_and_manningf/compliance/g9ej_1_e_uvddc12/g9ej_1_e_uvddc12_CoC_Component_Manual_COC_Details_1710234214898.xlsx?
+2024-05-09 17:06:52,508 - INFO - Bypart file is downloaded and saved
+2024-05-09 17:06:52,508 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,522 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/03.73.151_ROHS,REACH.pdf
+2024-05-09 17:06:52,525 - INFO - 27
+2024-05-09 17:06:52,526 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\03.73.151_ROHS,REACH.pdf
+2024-05-09 17:06:52,527 - INFO - File path updated in the database: atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\03.73.151_ROHS,REACH.pdf
+2024-05-09 17:06:52,527 - INFO - File has been overridden
+2024-05-09 17:06:52,527 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,527 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Amp/34148-0_ROHS,REACH.pdf
+2024-05-09 17:06:52,530 - INFO - 25
+2024-05-09 17:06:52,530 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\34148-0_ROHS,REACH.pdf
+2024-05-09 17:06:52,531 - INFO - File path updated in the database: atom_mfr_docs\watson_moore_and_manningf\compilance\G9EJ-1-E-UVDDC12\34148-0_ROHS,REACH.pdf
+2024-05-09 17:06:52,532 - INFO - File has been overridden
+2024-05-09 17:06:52,533 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,533 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/01.26.142_ROHS,REACH.pdf
+2024-05-09 17:06:52,536 - INFO - 30
+2024-05-09 17:06:52,537 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\hoffman_friedman_and_cowany\compilance\2-1904058-5\01.26.142_ROHS,REACH.pdf
+2024-05-09 17:06:52,537 - INFO - File path updated in the database: atom_mfr_docs\hoffman_friedman_and_cowany\compilance\2-1904058-5\01.26.142_ROHS,REACH.pdf
+2024-05-09 17:06:52,538 - INFO - File has been overridden
+2024-05-09 17:06:52,538 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,538 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/4607x_mds.pdf
+2024-05-09 17:06:52,541 - INFO - 31
+2024-05-09 17:06:52,542 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\hoffman_friedman_and_cowany\compilance\2-1904058-5\4607x_mds.pdf
+2024-05-09 17:06:52,542 - INFO - File path updated in the database: atom_mfr_docs\hoffman_friedman_and_cowany\compilance\2-1904058-5\4607x_mds.pdf
+2024-05-09 17:06:52,544 - INFO - File has been overridden
+2024-05-09 17:06:52,544 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,545 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Ettinger/034.18.024_ROHS,REACH.pdf
+2024-05-09 17:06:52,548 - INFO - 33
+2024-05-09 17:06:52,549 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\cortez_ltdd\compilance\1393315-2\034.18.024_ROHS,REACH.pdf
+2024-05-09 17:06:52,549 - INFO - File path updated in the database: atom_mfr_docs\cortez_ltdd\compilance\1393315-2\034.18.024_ROHS,REACH.pdf
+2024-05-09 17:06:52,550 - INFO - File has been overridden
+2024-05-09 17:06:52,550 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,550 - INFO - File is: http://192.168.20.216/sample-docs/02-18-2024/Epcos/B82111E%20SERIES.pdf
+2024-05-09 17:06:52,553 - INFO - 32
+2024-05-09 17:06:52,553 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\cortez_ltdd\compilance\1393315-2\B82111E%20SERIES.pdf
+2024-05-09 17:06:52,554 - INFO - File path updated in the database: atom_mfr_docs\cortez_ltdd\compilance\1393315-2\B82111E%20SERIES.pdf
+2024-05-09 17:06:52,555 - INFO - File has been overridden
+2024-05-09 17:06:52,555 - INFO - The file is a 'ByPart' file and it doesn't have mappings to any other manufacturers or components.
+2024-05-09 17:06:52,555 - INFO - File is: http://192.168.20.216/sample-docs/03-11-2024/Bourns/SMCJ1_MDS.pdf
+2024-05-09 17:06:52,555 - INFO - 37
+2024-05-09 17:06:52,555 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\chapman_poolen\compilance\1393315-9\SMCJ1_MDS.pdf
+2024-05-09 17:06:52,555 - INFO - File path updated in the database: atom_mfr_docs\chapman_poolen\compilance\1393315-9\SMCJ1_MDS.pdf
+2024-05-09 17:06:52,555 - INFO - File has been overridden
+2024-05-09 17:06:52,555 - INFO - blanket
+2024-05-09 17:06:52,555 - INFO - This File is mapped to both bypart and blanket
+2024-05-09 17:06:52,555 - INFO - 41
+2024-05-09 17:06:52,555 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\blanket\Feuerherdt_REACH.pdf
+2024-05-09 17:06:52,555 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\blanket\Feuerherdt_REACH.pdf
+2024-05-09 17:06:52,555 - INFO - blanket
+2024-05-09 17:06:52,555 - INFO - This File is mapped to both bypart and blanket
+2024-05-09 17:06:52,571 - INFO - 42
+2024-05-09 17:06:52,571 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\hoffman_friedman_and_cowany\compilance\blanket\Feuerherdt_REACH.pdf
+2024-05-09 17:06:52,571 - INFO - File path updated in the database: atom_mfr_docs\hoffman_friedman_and_cowany\compilance\blanket\Feuerherdt_REACH.pdf
+2024-05-09 17:06:52,571 - INFO - 3
+2024-05-09 17:06:52,571 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-05-09 17:06:52,571 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-05-09 17:06:52,571 - INFO - 4
+2024-05-09 17:06:52,571 - INFO - File downloaded and saved in: C:\Users\mohanvamsi.sadhu\Downloads\atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-05-09 17:06:52,571 - INFO - File path updated in the database: atom_mfr_docs\leach_kramert\compilance\multiplebyparts\063.32.170_ROHS,REACH.pdf
+2024-05-09 17:06:52,586 - INFO - connection closed
